@@ -47,7 +47,3 @@ typedef struct _format
 
 
 #endif /* MAIN_H */
-
-
-
-
